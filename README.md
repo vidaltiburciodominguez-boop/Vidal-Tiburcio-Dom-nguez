@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Sobre mí
 - 🔭 **Proyecto actual:** Análisis de la relación entre **movilidad urbana y productividad económica** en ciudades de LATAM. 
-- 🌱 **Formación:** Estudiante de Data Analytics en el bootcamp de **TripleTen**.
+- 🌱 **Formación:** Economista y Analista de Datos 
 - 📊 **Enfoque:** Especializándome en transformar datos crudos en decisiones estratégicas
 
 ### 🛠️ Stack Tecnológico
